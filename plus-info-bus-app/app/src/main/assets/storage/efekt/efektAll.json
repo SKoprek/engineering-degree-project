@@ -1,0 +1,87 @@
+[{ "wayID":0,
+	"data": [
+		{"main_id": 0,
+		"main_name_from": "Jabłonka",
+		"main_data":[{
+						"id": 0,
+						"hour": "6:00",
+						"comment": "C"
+					
+					},
+					{
+						"id": 1,
+						"hour": "7:55",
+						"comment": "C"
+					
+					},
+					{
+						"id": 2,
+						"hour": "10:05",
+						"comment": "C"
+					
+					},
+					{
+						"id": 3,
+						"hour": "12:00",
+						"comment": "C"
+					
+					},
+					{
+						"id": 4,
+						"hour": "13:55",
+						"comment": "C"
+					
+					},
+					{
+						"id": 5,
+						"hour": "16:05",
+						"comment": "C"
+					
+					}
+				
+					]
+		}]},
+		{ "wayID":1,
+	"data": [
+		{"main_id": 1,
+		"main_name_from": "Kraków",
+		"main_data":[{
+						"id": 0,
+						"hour": "9:10",
+						"comment": "C"
+					
+					},
+					{
+						"id": 1,
+						"hour": "10:50",
+						"comment": "C"
+					
+					},
+					{
+						"id": 2,
+						"hour": "13:10",
+						"comment": "C"
+					
+					},
+					{
+						"id": 3,
+						"hour": "15:10",
+						"comment": "C"
+					
+					},
+					{
+						"id": 4,
+						"hour": "17:05",
+						"comment": "C"
+					
+					},
+					{
+						"id": 5,
+						"hour": "19:05",
+						"comment": "C"
+					
+					}
+		
+					]
+		}]}
+]

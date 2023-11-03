@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Plus Info Bus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rozklad">Rozkłady:</string>
+    <string name="title_activity_rozklad_pick">Rozkład:</string>
+    <string name="title_activity_list_way">Lista Połączeń:</string>
+    <string name="title_activity_settings">Settings:</string>
+
+    <!--<string name="title_activity_machaj">MachajActivity</string>-->
+    <!--<string name="title_activity_machaj2">Machaj2Activity</string>-->
+    <!--<string name="title_activity_efekt1">Efekt1Activity</string>-->
+    <!--<string name="title_activity_efekt2">Efekt2Activity</string>-->
+    <!--<string name="title_activity_efekts">efektsActivity</string>-->
+    <string name="title_activity_maps">Map</string>
+
+    <!--<string name="title_activity_list_way_pick">ListWayPickActivity</string>-->
+
+    <string name="legend">Legenda</string>
+    <string name="info">Informacje</string>
+    <string name="info_from">Z: </string>
+    <string name="info_to">Do: </string>
+    <string name="button_search">Wyszukaj</string>
+
+    <string name="distance">Dystans: </string>
+    <string name="travel_time">Czas podróży: </string>
+    <string name="travel_line">Przewoźnik: </string>
+    <string name="button_set_time">Zmień godzinę </string>
+    <string name="button_set_date">Zmień datę </string>
+
+
+
+
+    <string name="setting_connection">Connection: </string>
+    <string name="setting_location">Location: </string>
+</resources>

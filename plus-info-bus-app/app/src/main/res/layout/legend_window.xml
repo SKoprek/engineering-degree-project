@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <TextView
+        android:id="@+id/title_legend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/white"
+        android:text="@string/legend"
+        android:gravity="center"
+        android:textSize="30sp"/>
+    <ListView
+        android:layout_below="@+id/title_legend"
+        android:background="@color/white"
+        android:id="@+id/legendListWiew"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

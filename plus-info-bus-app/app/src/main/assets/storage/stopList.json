@@ -1,0 +1,47 @@
+[
+		{
+		"stopName":"Zubrzyca Dolna - Sołtysowo",
+		"coords":[
+				{
+				"lat" : 49.503031,
+                "lng" : 19.67784
+				}
+		]
+		},
+		{
+		"stopName":"Nowy Targ - PKP Kolejowa",
+		"coords":[
+				{
+				"lat" : 49.476325,
+                "lng" : 20.014684
+				}
+		]
+		},
+		{
+		"stopName":"Lipnica Wielka - Szkoła",
+		"coords":[
+				{
+				"lat" : 49.4743,
+                "lng" : 19.637214
+				}
+		]
+		},{
+		"stopName":"Jabłonka - Rynek",
+		"coords":[
+				{
+				"lat" : 49.48017,
+                "lng" : 19.693856
+				}
+		]
+		}
+
+
+
+
+
+
+
+
+
+
+]

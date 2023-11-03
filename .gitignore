@@ -1,0 +1,10 @@
+plus-info-bus/*.iml
+plus-info-bus/.gradle
+plus-info-bus/local.properties
+plus-info-bus/.idea/libraries
+plus-info-bus/.idea/modules.xml
+plus-info-bus/.idea/workspace.xml
+plus-info-bus/.DS_Store
+plus-info-bus/build
+plus-info-bus/captures
+plus-info-bus/.externalNativeBuild

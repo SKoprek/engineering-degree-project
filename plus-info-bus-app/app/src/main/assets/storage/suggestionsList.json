@@ -1,0 +1,119 @@
+[
+		{
+		"stopName":"Czarny Dunajec - Rynek",
+		"coords":[
+				{
+				"lat" : 49.440460,
+                "lng" : 19.853808
+				}
+		]
+		},
+		{
+		"stopName":"Jabłonka - Rynek",
+		"coords":[
+				{
+				"lat" : 49.480159,
+                "lng" : 19.693893
+				}
+		]
+		},
+		{
+		"stopName":"Kraków - MDA",
+		"coords":[
+				{
+				"lat" : 50.067861,
+                "lng" : 19.949212
+				}
+		]
+		},
+		{
+		"stopName":"Lipnica Wielka - Urząd Gminy",
+		"coords":[
+				{
+				"lat" : 49.496497,
+                "lng" : 19.617677
+				}
+		]
+		},
+		{
+		"stopName":"Nowy Targ - MDA",
+		"coords":[
+				{
+				"lat" : 49.477944,
+                "lng" : 20.022998
+				}
+		]
+		},
+		{
+		"stopName":"Nowy Targ - MOK",
+		"coords":[
+				{
+				"lat" : 49.477961,
+                "lng" : 20.027180
+				}
+		]
+		},
+		{
+		"stopName":"Nowy Targ - ul.Szaflarska",
+		"coords":[
+				{
+				"lat" : 49.477996,
+                "lng" : 20.032278
+				}
+		]
+		},
+		{
+		"stopName":"Nowy Targ - Szpital",
+		"coords":[
+				{
+				"lat" : 49.489735,
+                "lng" : 20.026884
+				}
+		]
+		},
+		{
+		"stopName":"Piekielnik - Rynek",
+		"coords":[
+				{
+				"lat" : 49.476618,
+                "lng" : 19.765638
+				}
+		]
+		},
+		{
+		"stopName":"Zubrzyca Dolna - Szkoła",
+		"coords":[
+				{
+				"lat" : 49.523698,
+                "lng" : 19.674445
+				}
+		]
+		},
+		{
+		"stopName":"Zubrzyca Górna - Zimna Dziura Pętla",
+		"coords":[
+				{
+				"lat" : 49.587891,
+                "lng" : 19.645132
+				}
+		]
+		},
+		{
+		"stopName":"Zubrzyca Górna - Ochlipów",
+		"coords":[
+				{
+				"lat" : 49.579967,
+                "lng" : 19.621814
+				}
+		]
+		},
+		{
+		"stopName":"Zubrzyca Górna - Skrzyżowanie",
+		"coords":[
+				{
+				"lat" : 49.562813,
+                "lng" : 19.649422
+				}
+		]
+		}
+]

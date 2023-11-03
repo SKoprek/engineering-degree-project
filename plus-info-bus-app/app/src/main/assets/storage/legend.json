@@ -1,0 +1,27 @@
+[
+	{
+		"id":0,
+		"short":"D",
+		"full":"od pon. do pt. oprócz świąt"
+	},
+	{
+		"id":1,
+		"short":"E",
+		"full":"od pon. do sob. oprócz świąt"
+	},
+	{
+		"id":2,
+		"short":"S",
+		"full":"w dni nauki szkolnej"
+	},
+	{
+		"id":3,
+		"short":"U",
+		"full":"do ul. Szaflarskiej"
+	},
+	{
+		"id":4,
+		"short":"C",
+		"full":"kursuje 7 dni w tygodniu"
+	}
+]

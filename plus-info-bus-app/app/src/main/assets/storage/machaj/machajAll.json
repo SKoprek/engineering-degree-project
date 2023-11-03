@@ -1,0 +1,661 @@
+[
+	{ "wayID":0,
+	"data": [
+			{
+					"main_id":0,
+					"main_name_from":"Zubrzyca Górna",
+					"main_street_from": "[Ochlipów]",
+					"main_data":[
+							{
+								"id": 0,
+								"hour": "5:20",
+								"comment": "D"
+							},
+							{
+							   "id": 1,
+							   "hour": "5:55",
+							   "comment": "E"
+						   },
+						   {
+							   "id": 2,
+							   "hour": "6:40",
+							   "comment": "D"
+						   },
+						   {
+							   "id": 3,
+							   "hour": "7:05",
+							   "comment": "E"
+						   },
+						   {
+							   "id":4,
+							   "hour": "9:15",
+							   "comment": "D"
+						   },
+						   {
+							   "id": 5,
+							   "hour": "14:10",
+							   "comment": "ESU"
+						   }
+						]
+			},
+			{
+					"main_id":1,
+					"main_name_from":"Zubrzyca Górna",
+					"main_street_from": "[Zimna Dziura]",
+					"main_data":[
+						{
+						   "id": 0,
+						   "hour": "5.35",
+						   "comment": "E"
+						},
+						{
+						   "id": 1,
+						   "hour": "6:12",
+						   "comment": "E"
+						},
+						{
+						   "id": 2,
+						   "hour": "6:55",
+						   "comment": "D"
+						},
+						{
+						   "id": 3,
+						   "hour": "7:20",
+						   "comment": "E"
+						},
+						{
+						   "id": 4,
+						   "hour": "7:55",
+						   "comment": "E"
+						},
+						{
+						   "id": 5,
+						   "hour": "8:30",
+						   "comment": "E"
+						},
+						{
+						   "id": 6,
+						   "hour": "9:38",
+						   "comment": "D"
+						},
+						{
+						   "id": 7,
+						   "hour": "10:15",
+						   "comment": "E"
+						},
+						{
+						   "id": 8,
+						   "hour": "11:05",
+						   "comment": "DU"
+						},
+						{
+						   "id": 9,
+						   "hour": "12:05",
+						   "comment": "D"
+						},
+						{
+						   "id": 10,
+						   "hour": "12:45",
+						   "comment": "D"
+						},
+						{
+						   "id": 11,
+						   "hour": "13:20",
+						   "comment": "E"
+						},
+						{
+						   "id": 12,
+						   "hour": "14:40",
+						   "comment": "DU"
+						},
+						{
+						   "id": 13,
+						   "hour": "15:20",
+						   "comment": "DU"
+						},
+						{
+						   "id": 14,
+						   "hour": "17:20",
+						   "comment": "DU"
+						}
+
+				]
+
+			},
+			{
+					"main_id":2,
+					"main_name_from":"Jabłonka",
+					"main_street_from": "",
+					"main_data":			[
+							{
+							   "id": 0,
+							   "hour": "5:55",
+							   "comment": "D"
+							},
+							{
+							   "id": 1,
+							   "hour": "6:40",
+							   "comment": "E"
+							},
+							{
+							   "id": 2,
+							   "hour": "7:20",
+							   "comment": "D"
+							},
+							{
+							   "id": 3,
+							   "hour": "7:45",
+							   "comment": "E"
+							},
+							{
+							   "id": 4,
+							   "hour": "8:20",
+							   "comment": "E"
+							},
+							{
+							   "id": 5,
+							   "hour": "8:50",
+							   "comment": "E"
+							},
+							{
+							   "id": 6,
+							   "hour": "9:40",
+							   "comment": "S"
+							},
+							{
+							   "id": 7,
+							   "hour": "9:59",
+							   "comment": "D"
+							},
+							{
+							   "id": 8,
+							   "hour": "10:35",
+							   "comment": "E"
+							}
+							,
+							{
+							   "id": 9,
+							   "hour": "11:25",
+							   "comment": "DU"
+							},
+							{
+							   "id": 10,
+							   "hour": "11:50",
+							   "comment": "S"
+							},
+							{
+							   "id":11 ,
+							   "hour": "12:35",
+							   "comment": "D"
+							},
+							{
+							   "id": 12,
+							   "hour": "13:05",
+							   "comment": "D"
+							},
+							{
+							   "id": 13,
+							   "hour": "13:40",
+							   "comment": "E"
+							},
+							{
+							   "id": 14,
+							   "hour": "14:30",
+							   "comment": "ESU"
+							},
+							{
+							   "id": 15,
+							   "hour": "15:15",
+							   "comment": "DU"
+							},
+							{
+							   "id": 16,
+							   "hour": "15:50",
+							   "comment": "DU"
+							},
+							{
+							   "id": 17,
+							   "hour": "17:20",
+							   "comment": "DU"
+							}
+
+					]
+
+
+			},{
+					"main_id":3,
+					"main_name_from":"Czarny Dunajec",
+					"main_street_from": "",
+					"main_data":			[
+						{
+							"id": 0,
+							"hour": "6:10",
+							"comment": "D"
+						},
+						{
+							"id": 1,
+							"hour": "6:55",
+							"comment": "E"
+						},
+						{
+							"id": 2,
+							"hour": "7:38",
+							"comment": "D"
+						},
+						{
+							"id": 3,
+							"hour": "8:05",
+							"comment": "E"
+						},
+						{
+							"id": 4,
+							"hour": "8:35",
+							"comment": "E"
+						},
+						{
+							"id": 5,
+							"hour": "9:08",
+							"comment": "E"
+						},
+						{
+							"id": 6,
+							"hour": "10:00",
+							"comment": "S"
+						},
+						{
+							"id": 7,
+							"hour": "10:15",
+							"comment": "D"
+						},
+						{
+							"id": 8,
+							"hour": "10:50",
+							"comment": "E"
+						},
+						{
+							"id": 9,
+							"hour": "11:40",
+							"comment": "DU"
+						},
+						{
+							"id": 10,
+							"hour": "12:05",
+							"comment": "S"
+						},
+						{
+							"id":11 ,
+							"hour": "12:50",
+							"comment": "D"
+						},
+						{
+							"id": 12,
+							"hour": "13:20",
+							"comment": "D"
+						},
+						{
+							"id": 13,
+							"hour": "13:55",
+							"comment": "E"
+						},
+						{
+							"id": 14,
+							"hour": "14:45",
+							"comment": "ESU"
+						},
+						{
+							"id": 15,
+							"hour": "15:30",
+							"comment": "DU"
+						},
+						{
+							"id": 16,
+							"hour": "16:05",
+							"comment": "DU"
+						},
+						{
+							"id": 17,
+							"hour": "17:35",
+							"comment": "DU"
+						}
+
+					]
+		}
+	]},
+	{ "wayID":1,
+	"data": [
+				{
+						"main_id":0,
+						"main_name_from":"Nowy Targ",
+						"main_street_from": "Szpital",
+						"main_data":[
+					{
+					   "id": 0,
+					   "hour": "6:35",
+					   "comment": "DZ"
+					},
+					{
+					   "id": 1,
+					   "hour": "7:20",
+					   "comment": "EZ"
+					},
+					{
+					   "id": 2,
+					   "hour": "8:05",
+					   "comment": "DO"
+					},
+					{
+					   "id": 3,
+					   "hour": "8:30",
+					   "comment": "EJ"
+					},
+					{
+					   "id": 4,
+					   "hour": "9:00",
+					   "comment": "EZ"
+					},
+					{
+					   "id": 5,
+					   "hour": "9:40",
+					   "comment": "DZ"
+					},
+					{
+					   "id": 6,
+					   "hour": "10:25",
+					   "comment": "SJ"
+					},
+					{
+					   "id": 7,
+					   "hour": "10:42",
+					   "comment": "DZ"
+					},
+					{
+					   "id": 8,
+					   "hour": "11:20",
+					   "comment": "DZ"
+					},
+					{
+					   "id": 9,
+					   "hour": "13:00",
+					   "comment": "ESO"
+					},
+					{
+					   "id": 10,
+					   "hour": "13:15",
+					   "comment": "DZ"
+					},
+					{
+					   "id": 11,
+					   "hour": "14:00",
+					   "comment": "DZ"
+					},
+					{
+					   "id": 12,
+					   "hour": "14:30",
+					   "comment": "ESO"
+					}
+			]
+	},{
+						"main_id":1,
+						"main_name_from":"Nowy Targ",
+						"main_street_from": "MOK",
+						"main_data":[		{
+									   "id": 0,
+									   "hour": "6:52",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 1,
+									   "hour": "7:31",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 2,
+									   "hour": "8:16",
+									   "comment": "DO"
+									},
+									{
+									   "id": 3,
+									   "hour": "8:46",
+									   "comment": "EJ"
+									},
+									{
+									   "id": 4,
+									   "hour": "9:06",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 5,
+									   "hour": "9:56",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 6,
+									   "hour": "10:39",
+									   "comment": "SJ"
+									},
+									{
+									   "id": 7,
+									   "hour": "10:56",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 8,
+									   "hour": "11:31",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 9,
+									   "hour": "12:16",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 10,
+									   "hour": "13:16",
+									   "comment": "ESO"
+									},
+									{
+									   "id": 11,
+									   "hour": "13:34",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 12,
+									   "hour": "14:21",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 13,
+									   "hour": "14:51",
+									   "comment": "ESO"
+									},
+									{
+									   "id": 14,
+									   "hour": "15:21",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 15,
+									   "hour": "16:01",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 16,
+									   "hour": "16:39",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 17,
+									   "hour": "18:31",
+									   "comment": "DZ"
+									}
+							]
+	},{
+			"main_id":2,
+			"main_name_from":"Czarny Dunajec",
+			"main_street_from": "",
+			"main_data":			[
+
+				{
+					"id": 0,
+					"hour": "7:10",
+					"comment": "DZ"
+				},{
+					"id": 1,
+					"hour": "7:50",
+					"comment": "EZ"
+				},{
+					"id": 2,
+					"hour": "8:35",
+					"comment": "DO"
+				},{
+					"id": 3,
+					"hour": "9:05",
+					"comment": "EJ"
+				},{
+					"id": 4,
+					"hour": "9:25",
+					"comment": "EZ"
+				},{
+					"id": 5,
+					"hour": "10:15",
+					"comment": "DZ"
+				},{
+					"id": 6,
+					"hour": "11:00",
+					"comment": "SJ"
+				},{
+					"id": 7,
+					"hour": "11:15",
+					"comment": "DZ"
+				},{
+					"id": 8,
+					"hour": "11:50",
+					"comment": "DZ"
+				},{
+					"id": 9,
+					"hour": "12:35",
+					"comment": "EZ"
+				},{
+					"id": 10,
+					"hour": "13:35",
+					"comment": "ESO"
+				},{
+					"id": 11,
+					"hour": "13:53",
+					"comment": "DZ"
+				},{
+					"id": 12,
+					"hour": "14:40",
+					"comment": "DZ"
+				},{
+					"id": 13,
+					"hour": "15:10",
+					"comment": "ESO"
+				},{
+					"id": 14,
+					"hour": "15:40",
+					"comment": "DZ"
+				},{
+					"id": 15,
+					"hour": "16:20",
+					"comment": "EZ"
+				},{
+					"id": 16,
+					"hour": "17:00",
+					"comment": "DZ"
+				},{
+					"id": 17,
+					"hour": "18:55",
+					"comment": "DZ"
+				}
+
+
+			]},
+		{
+						"main_id":3,
+						"main_name_from":"Jabłonka",
+						"main_street_from": "Rynek",
+						"main_data":[
+									{
+									   "id": 0,
+									   "hour": "7:30",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 1,
+									   "hour": "8:05",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 2,
+									   "hour": "8:55",
+									   "comment": "DO"
+									},
+									{
+									   "id": 3,
+									   "hour": "9:40",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 4,
+									   "hour": "10:30",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 5,
+									   "hour": "11:40",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 6,
+									   "hour": "12:20",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 7,
+									   "hour": "12:50",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 8,
+									   "hour": "13:50",
+									   "comment": "ESO"
+									},
+									{
+									   "id": 9,
+									   "hour": "14:15",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 10,
+									   "hour": "14:55",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 11,
+									   "hour": "15:30",
+									   "comment": "ESO"
+									},
+									{
+									   "id": 12,
+									   "hour": "15:55",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 13,
+									   "hour": "16:35",
+									   "comment": "EZ"
+									},
+									{
+									   "id": 14,
+									   "hour": "17:14",
+									   "comment": "DZ"
+									},
+									{
+									   "id": 15,
+									   "hour": "19:15",
+									   "comment": "DZ"
+									}
+						]}
+	]}
+]

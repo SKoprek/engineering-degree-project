@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/wayPickLay"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:id="@+id/departure_time_TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="59dp"
+            android:textSize="35sp"/>
+
+        <TextView
+            android:id="@+id/arrival_time_TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/departure_time_TextView"
+            android:layout_toEndOf="@+id/departure_time_TextView" />
+
+        <TextView
+            android:id="@+id/json_data_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/timeFromEpochTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/arrival_time_TextView"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="11dp"
+            android:text="TextView" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
