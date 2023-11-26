@@ -18,7 +18,7 @@
 
 /plus-info-bus-api/.gradle
 /plus-info-bus-api/build/
-/plus-info-bus-api/bin
+/plus-info-bus-api/bin/
 /plus-info-bus-api/!gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
@@ -40,6 +40,6 @@
 ### NetBeans ###
 /plus-info-bus-api/nbproject/private/
 /plus-info-bus-api/plus-info-bus-api/nbbuild/
-/dist/
+/plus-info-bus-api/dist/
 /plus-info-bus-api/nbdist/
 /plus-info-bus-api/.nb-gradle/
