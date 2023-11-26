@@ -1,10 +1,45 @@
-plus-info-bus/*.iml
-plus-info-bus/.gradle
-plus-info-bus/local.properties
-plus-info-bus/.idea/libraries
-plus-info-bus/.idea/modules.xml
-plus-info-bus/.idea/workspace.xml
-plus-info-bus/.DS_Store
-plus-info-bus/build
-plus-info-bus/captures
-plus-info-bus/.externalNativeBuild
+# plus-info-bus/*.iml
+# plus-info-bus/.gradle
+# plus-info-bus/local.properties
+# plus-info-bus/.idea/libraries
+# plus-info-bus/.idea/modules.xml
+# plus-info-bus/.idea/workspace.xml
+# plus-info-bus/.DS_Store
+# plus-info-bus/build
+# plus-info-bus/captures
+# plus-info-bus/.externalNativeBuild
+/plus-info-bus-app/.gradle/
+/plus-info-bus-app/.idea/
+/plus-info-bus-app/app/build/
+/plus-info-bus-app/app/PlusBusInfo
+/plus-info-bus-app/app/release
+/plus-info-bus-app/.idea
+/plus-info-bus-app/.gradle
+
+/plus-info-bus-api/.gradle
+/plus-info-bus-api/build/
+/plus-info-bus-api/bin
+/plus-info-bus-api/!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+/plus-info-bus-api/.apt_generated
+/plus-info-bus-api/.classpath
+/plus-info-bus-api/.factorypath
+/plus-info-bus-api/.project
+/plus-info-bus-api/.settings
+/plus-info-bus-api/.springBeans
+/plus-info-bus-api/.sts4-cache
+
+### IntelliJ IDEA ###
+/plus-info-bus-api/.idea
+/plus-info-bus-api/*.iws
+/plus-info-bus-api/*.iml
+/plus-info-bus-api/*.ipr
+/plus-info-bus-api/out/
+
+### NetBeans ###
+/plus-info-bus-api/nbproject/private/
+/plus-info-bus-api/plus-info-bus-api/nbbuild/
+/dist/
+/plus-info-bus-api/nbdist/
+/plus-info-bus-api/.nb-gradle/
